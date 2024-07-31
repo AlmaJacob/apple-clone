@@ -157,13 +157,18 @@
 }
 
 .hom{
-  height: 411px;
-  width: 617px;
+  
+  
+  width: 100%;
+    height: 100%;
 }
+
 .ma{
-  height: 462px;
-  width: 617px;
+  
+  width: 100%;
+    height: 675px;
 }
+
 .over{
   width: 100%;
   height: 600px;
